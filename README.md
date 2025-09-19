@@ -1,2 +1,2 @@
-1.odin-recipes
+1.odin-recipes:
 basic html syntax, lists , tags, links 
